@@ -1,6 +1,0 @@
-travel_km_per_day,transport,electricity_kwh_per_day,diet,total_co2_kg_per_year
-20,1.0,10,1.0,3200
-5,0.2,4,0.5,900
-10,0.5,6,1.0,2100
-2,0.0,3,0.5,600
-15,1.0,8,1.0,2500
