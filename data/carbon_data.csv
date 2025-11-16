@@ -1,0 +1,6 @@
+travel_km_per_day,transport,electricity_kwh_per_day,diet,total_co2_kg_per_year
+20,car,10,non-veg,3200
+5,bike,4,veg,900
+10,bus,6,non-veg,2100
+2,walk,3,veg,600
+15,car,8,non-veg,2500
